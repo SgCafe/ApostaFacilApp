@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ApostaFacil</string>
+    <string name="megaNome">Mega-Sena</string>
+    <string name="InfoNumberMega">Digite um número entre 6 e 15</string>
+    <string name="LastBet">Ultimos números sorteados:</string>
+    <string name="Button">Sortear</string>
+    <string name="Lotofacil">Lotofácil</string>
+    <string name="InfoNumberLoto">Digite um número entre 15 e 18</string>
+    <string name="Quina">Quina</string>
+    <string name="InfoNumberQuina">Digite um número entre 5 e 15</string>
+    <string name="dupla">Dupla-Sena</string>
+    <string name="InfoNumberDupla">Digite um número entre 6 e 15</string>
+    <string name="lotoDigite">Digite um número entre 15 e 18</string>
+</resources>
